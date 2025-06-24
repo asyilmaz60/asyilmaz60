@@ -1,4 +1,4 @@
-<h3 align="center">👋 Merhaba, ben Abdullah Samet Yılmaz</h3>
+<h1 align="center">👋 Merhaba, ben Abdullah Samet Yılmaz</h1>
 
 <p align="center">
 🎓 Gümüşhane Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. <br>
